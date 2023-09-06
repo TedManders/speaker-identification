@@ -1,7 +1,7 @@
 # Deep Learning Challenge: Speaker Identification
 
 ## Introduction
-This challenge was part of the Deep Learning course (2022) at Tilburg University. The task aims at labeling spoken utterances with an ID of one of the 183 unique speakers. The raw training data is in the form of WAVE files, which have to be processed to be usable as input to a deep learning model.
+This challenge was part of the Deep Learning course (2022) at Tilburg University. The task aims at labeling spoken utterances with an ID of one of the 183 unique speakers. The raw training data contains WAVE files, which are processed to be used as input to a deep learning model.
 
 ### Result
 Our team got second place out of a total of 40 teams with a test error rate of 0.0122 (98.78% accuracy).
